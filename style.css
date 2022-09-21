@@ -189,7 +189,7 @@ Section.sixcontainer{
 #fb{
     font-size: 1em;
     position: relative;
-    left: 555px;
+    left: 40em;
     bottom: 100px;
     text-decoration: none;
     border: 2px solid black;
@@ -203,7 +203,7 @@ Section.sixcontainer{
 #insta{
     font-size: 1em;
     position: relative;
-    left: 46.6em;
+    left: 50.5em;
     bottom: 100px;
     text-decoration: none;
     border: 2px solid black;
@@ -217,7 +217,7 @@ Section.sixcontainer{
 #link{
     font-size: 1em;
     position: relative;
-    left: 49.9em;
+    left: 54.4em;
     bottom: 100px;
     border: 2px solid black;
     padding: 10px;
@@ -231,7 +231,7 @@ Section.sixcontainer{
 #call{
     font-size: 1em;
     position: relative;
-    left:20.9em;
+    left:25.3em;
     bottom: 100px;
     border: 2px solid black;
     padding: 10px;
@@ -312,28 +312,14 @@ Section.sixcontainer{
     justify-content:center;
     align-items: center;
 }
-#about2{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 21px;
-    /*border: 2px solid whitesmoke;*/
-    width: 50%;
-    position: relative;
-    left: 335px;
-    margin-top: 50px;
-    top: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
-}
+
 #about1{
     display: flex;
     justify-content: center;
-    align-items: center;
-    font-size: 21px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5em;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     position: relative;
-    top: 20px;
+    padding: 1em 4em;
 
 }
 .disableselect{
@@ -347,7 +333,7 @@ Section.sixcontainer{
 #fb1{
     font-size: 1em;
     position: relative;
-    left: 390px;
+    left: 22em;
     top: 4em;
     text-decoration: none;
     padding: 10px;
@@ -358,7 +344,7 @@ Section.sixcontainer{
 #insta1{
     font-size: 1em;
     position: relative;
-    left: 528px;
+    left: 37.7em;
     top:4em;
     text-decoration: none;
     padding: 10px;
@@ -369,7 +355,7 @@ Section.sixcontainer{
 #link1{
     font-size: 1em;
     position: relative;
-    left:660px;
+    left:54em;
     top:4em;
     padding: 10px;
     color: aliceblue;
@@ -389,7 +375,7 @@ Section.sixcontainer{
 }
 #home1{
     position: relative;
-    left: 16em;
+    left: 17.5em;
     font-size: 5em;
     cursor: pointer;
     color: white;
@@ -404,7 +390,7 @@ Section.sixcontainer{
     height: 1em;
     position: relative;
     overflow: hidden;
-    left: 30.9em;
+    left:35em;
     box-shadow: 0 8px 8px rgb(49, 44, 44),0 7px 7px rgb(227, 243, 227);
     /*transition: all 0.5s cubic-bezier(.25,.8,.25,1);*/
 }
@@ -421,7 +407,7 @@ Section.sixcontainer{
     height: 1em;
     position: relative;
     overflow: hidden;
-    left: 30.9em;
+    left:35em;
     box-shadow: 0 8px 8px rgb(49, 44, 44),0 7px 7px rgb(227, 243, 227);
     /*transition: all 0.5s cubic-bezier(.25,.8,.25,1);*/
 }
@@ -438,7 +424,7 @@ Section.sixcontainer{
     height: 1em;
     position: relative;
     overflow: hidden;
-    left: 30.9em;
+    left:35em;
     box-shadow: 0 8px 8px rgb(49, 44, 44),0 7px 7px rgb(227, 243, 227);
     /*transition: all 0.5s cubic-bezier(.25,.8,.25,1);*/
 }
@@ -455,7 +441,7 @@ Section.sixcontainer{
     height: 1em;
     position: relative;
     overflow: hidden;
-    left: 30.9em;
+    left:35em;
     box-shadow: 0 8px 8px rgb(49, 44, 44),0 7px 7px rgb(227, 243, 227);
     /*transition: all 0.5s cubic-bezier(.25,.8,.25,1);*/
 }
@@ -472,7 +458,7 @@ Section.sixcontainer{
     height: 1em;
     position: relative;
     overflow: hidden;
-    left: 30.9em;
+    left:35em;
     box-shadow: 0 8px 8px rgb(49, 44, 44),0 7px 7px rgb(227, 243, 227);
     /*transition: all 0.5s cubic-bezier(.25,.8,.25,1);*/
 }
@@ -489,7 +475,7 @@ Section.sixcontainer{
     height: 1em;
     position: relative;
     overflow: hidden;
-    left: 30.9em;
+    left:35em;
     box-shadow: 0 8px 8px rgb(49, 44, 44),0 7px 7px rgb(227, 243, 227);
     /*transition: all 0.5s cubic-bezier(.25,.8,.25,1);*/
 }
@@ -506,7 +492,7 @@ Section.sixcontainer{
     height: 1em;
     position: relative;
     overflow: hidden;
-    left: 30.9em;
+    left:35em;
     box-shadow: 0 8px 8px rgb(49, 44, 44),0 7px 7px rgb(227, 243, 227);
     /*transition: all 0.5s cubic-bezier(.25,.8,.25,1);*/
 }
@@ -578,7 +564,7 @@ Section.sixcontainer{
     margin: 0 1rem;
     overflow: hidden;
     position: relative;
-    left: 17.8em;
+    left: 19.4em;
   }
   .menu li a{
     color: whitesmoke;
